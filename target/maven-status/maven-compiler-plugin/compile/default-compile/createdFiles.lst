@@ -1,0 +1,13 @@
+com\example\repository\RegisterRepo.class
+com\example\entities\ProductReviewEntity$ProductReviewEntityBuilder.class
+com\example\service\RegisterService.class
+com\example\service\RegisterServiceImpl.class
+com\example\mappers\UserMapper.class
+com\example\mappers\UserMapperImpl.class
+com\example\reviews\ReviewsApplication.class
+com\example\models\UserModel.class
+com\example\entities\ProductReviewEntity.class
+com\example\entities\UserEntity.class
+com\example\controller\RegisterController.class
+com\example\models\UserModel$UserModelBuilder.class
+com\example\entities\UserEntity$UserEntityBuilder.class
