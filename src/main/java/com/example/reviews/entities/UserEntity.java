@@ -1,5 +1,7 @@
 package com.example.reviews.entities;
 
+import java.time.LocalDateTime;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
@@ -22,5 +24,7 @@ public class UserEntity {
 	private long id;
 	private byte[] avatar;
 	private String username;
+	private String password;
+	private LocalDateTime lastLogin;
 
 }
